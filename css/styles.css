@@ -16,6 +16,9 @@ body {
   background-color: #FF4944;
   margin-left: 10px;
 }
+.sidebar:hover{
+  background-color: blue;
+}
 
 h1 {
   font-family: 'Pacifico', cursive;
@@ -23,4 +26,8 @@ h1 {
 img {
   width: 60%;
   margin-left: 2%;
+}
+
+img:hover{
+  display:none;
 }
