@@ -4,11 +4,23 @@ body {
   font-size: 32px;
 }
 
-p.summary {
+.columns {
+  width: 33%;
   float: left;
-  margin: 0 15% 0 0;
+  background-color: #FF4944;
+}
+
+.sidebar {
+  width: 35%;
+  float: right;
+  background-color: #FF4944;
+  margin-left: 10px;
 }
 
 h1 {
   font-family: 'Pacifico', cursive;
+}
+img {
+  width: 60%;
+  margin-left: 2%;
 }
