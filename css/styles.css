@@ -1,0 +1,14 @@
+body {
+  background-color: #B0FAC9;
+  font-family: 'Cookie', cursive;
+  font-size: 32px;
+}
+
+p.summary {
+  float: left;
+  margin: 0 15% 0 0;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+}
